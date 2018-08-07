@@ -1,0 +1,17 @@
+{
+  "name": "finances",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ivan Lausuch",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.6"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
